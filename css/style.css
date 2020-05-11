@@ -1,0 +1,32 @@
+div {
+
+  background-color: white;
+  
+}
+
+
+.btn{
+
+  background-color: #1c3f94;
+  color:white;
+  text-align:center;
+  opacity: 1;
+  transition:0.5s;
+
+}
+
+.btn:hover{
+
+    border: 3px dotted #1c3f94;
+
+}
+
+.divbox {
+
+  width: 200px;
+  height:200px;
+  text-align: center;
+  border:1px solid black;
+  padding:40px;
+
+}
